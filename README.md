@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purvesh19&label=Profile%20views&color=0e75b6&style=flat" alt="purvesh19" /> </p>
 
+- :open_book: I'm an Undergrad Student of Btech, AI and Data Science
+
 - 🔭 I’m currently working on **Full Stack Web Development**
 
 - 🌱 I’m currently learning **Backend Development**
