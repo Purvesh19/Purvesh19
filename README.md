@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m **Web3 and Blockchain Technology** Enthusiast
 
 - 📫 How to reach me **purveshgupta19@gmail.com**
 
